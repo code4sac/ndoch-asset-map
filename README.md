@@ -1,30 +1,23 @@
-# 2019 NSF Civic Innovation Challenge - Web Application
+## Code of America NDoCH 2020 - Asset Map
+### Code for Sacramento
 
-## Code for Sacramento - Contest Entry
-
-### Problem Statement
-
-Resilience: Communities are at a high risk from flooding and erosion. How can we use data and technology tools, like sensing and mapping, to help protect our communities?
+## Change Log
+* 08-21-2020: Baseline Version v0.1
 
 ### Introduction
 
-The Civic Innovation Challenge aims to leverage social science, data, and technology to address complex community challenges, enhance job growth and economic competitiveness, and address equity in our communities.
-
-### Planning Documents
-
-1. [Outline Presentation](https://drive.google.com/open?id=1iYygMCW_3ObGEFmXPtv7GQbgXOOSSOVZo7EJr0g58PQ)
-2. [Links and Resources](https://drive.google.com/open?id=1qJcdZpiONlpN7lYasD9VFbptphpdHHspmR13mkkPpfc)
+This project focuses on the asset map item for the [CFA NDoCH](1) event; it consists of a web application to visualize various assets within the Sacramento area. The data is sourced from various open data portals.
 
 ### Software and Tools
 
 Software used for this project are as follows:
 
-1. [ESRI Open Data GIS Portal](https://hub.arcgis.com/pages/open-data)
-2. [Google Earth Pro](https://www.google.com/earth/versions/)
-3. [Node.js](https://nodejs.org/en/)
-4. [Express.js](https://expressjs.com/)
-5. [NPM Package Manager](https://www.npmjs.com/)
-6. [QGIS](https://qgis.org/en/site/forusers/download.html)
+1. [ESRI Open Data GIS Portal](2)
+2. [Google Earth Pro](3)
+3. [Node.js](4)
+4. [Express.js](5)
+5. [NPM Package Manager](6)
+6. [QGIS](7)
 
 ## Installation
 
@@ -39,27 +32,34 @@ Clone Github repository, then run locally as follows:
 
 Node.js web app using the ESRI JS API and as listed below; it visualizes various GIS layers for additional analysis.
 
-1. [Visit Web Application](https://ncic.herokuapp.com/)
+1. [Visit Web Application](8)
 2. Shows ESRI AGOL major US cities and freeway layers
 3. Developed using Node.js and Express web frameworks
 4. ESRI and Heroku templates used as referenced below
-
-Details about the map and feature layers:
-
-1. [ACOE/AGOL Portal](https://geoplatform-usace.opendata.arcgis.com/)
-2. [Sacramento Open Data GIS Portal](https://data-sacramentocounty.opendata.arcgis.com/)
-3. [Sacramento Watershed Program GIS Portal](https://data.sacriver.org/)
 
 ## References:
 
 Web app was developed using these templates/tutorials:
 
-1. [ESRI/JS API: 2D Map Template](http://arcg.is/2nytHZt)
-2. [ESRI JS API: Layer Template](http://arcg.is/2nyNuIe)
-3. [ESRI AGOL: US Major Cities Layer](http://arcg.is/2nyyvht)
-4. [Heroku Node.js Tutorial](http://bit.ly/2nyFTJN)
+1. [ESRI/JS API: 2D Map Template](9)
+2. [ESRI JS API: Layer Template](10)
+3. [ESRI AGOL: US Major Cities Layer](11)
+4. [Heroku Node.js Tutorial](12)
 
-# Heroku Node.js Tutorial Instructions
+[1]: https://www.codeforamerica.org/events/national-day-of-civic-hacking-2020
+[2]: https://hub.arcgis.com/pages/open-data
+[3]: https://www.google.com/earth/versions/
+[4]: https://nodejs.org/en/
+[5]: https://expressjs.com/
+[6]: https://www.npmjs.com/
+[7]: https://qgis.org/en/site/forusers/download.html
+[8]:
+[9]: http://arcg.is/2nytHZt
+[10]: http://arcg.is/2nyNuIe
+[11]: http://arcg.is/2nyyvht
+[12]: http://bit.ly/2nyFTJN
+
+## Heroku Node.js Tutorial Instructions
 
 A barebones Node.js app using [Express.js](http://expressjs.com/).
 
