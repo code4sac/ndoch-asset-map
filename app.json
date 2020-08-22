@@ -1,7 +1,7 @@
 {
-  "name": "2019 NSF Civic Innovation Challenge",
-  "description": "Code for Sacramento - Contest Entry",
-  "repository": "https://github.com/walteryu/ncic",
+  "name": "CFA NDoCH 2020: Asset Map",
+  "description": "Code for Sacramento",
+  "repository": "https://github.com/walteryu/ndoch",
   "logo": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-map.svg",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
