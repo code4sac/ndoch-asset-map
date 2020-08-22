@@ -53,7 +53,7 @@ Web app was developed using these templates/tutorials:
 [5]: https://expressjs.com/
 [6]: https://www.npmjs.com/
 [7]: https://qgis.org/en/site/forusers/download.html
-[8]:
+[8]: https://www.codeforamerica.org/events/national-day-of-civic-hacking-2020
 [9]: http://arcg.is/2nytHZt
 [10]: http://arcg.is/2nyNuIe
 [11]: http://arcg.is/2nyyvht
